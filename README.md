@@ -6,4 +6,4 @@ Source Data :  sql
 
 RDBMS : MySQL
 
-Query Language : SQL
+Scripting : SQL
