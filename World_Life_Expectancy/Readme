@@ -1,2 +1,11 @@
 Tools : SQL Workbench
 Database : MySQL
+
+Dataset Information: World expectancy data from last several years are available in a .csv file.
+The data is loaded and then removed  duplicates, replacing missing values in the dataset to get insights into data.
+
+Create new Schema / database.
+Table Data Import Wizard to import table from the csv file.
+
+
+Records : 2941
