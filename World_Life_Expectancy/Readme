@@ -20,7 +20,8 @@ Columns in the table/dataset: Country,Year,Status,Life expectancy ,Adult Mortali
 Records : 2941
 
 Data issues Identified :
-1. Missing data in Life expectancy, Status columns.
-2. Duplicate data.
+1. Missing data in the "Status" column : Updated by the common values of the corresponding columns.
+1. Missing data in Life expectancy : Updated by taking average of values before and after the row data.
+2. Duplicate data : Removed by identifying the duplicates.
 
 
