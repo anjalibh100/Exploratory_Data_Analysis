@@ -1,11 +1,26 @@
+Project Date : 9/11/2024
+
+Project Objective : Data Cleaning and Data Exploration for "World Life Expectancy" database
+
+Source Data : sql
+
+RDBMS : MySQL
+
+Scripting : SQL
+
+
 Tools : SQL Workbench
-Database : MySQL
 
 Dataset Information: World expectancy data from last several years are available in a .csv file.
 The data is loaded and then removed  duplicates, replacing missing values in the dataset to get insights into data.
 
 Create new Schema / database.
 Table Data Import Wizard to import table from the csv file.
-
-
+Columns in the table/dataset: Country,Year,Status,Life expectancy ,Adult Mortality,infant deaths,percentage expenditure...
 Records : 2941
+
+Dirty Data Identified :
+1. Missing data in Life expectancy, Status columns.
+2. Duplicate data.
+
+
