@@ -1,6 +1,6 @@
 Project Date : 9/11/2024
 
-Project Objective : Data Cleaning and Data Exploration for "World Life Expectancy" database
+Project Objective : EDA for "World Life Expectancy" database
 
 Source Data : sql
 
@@ -19,7 +19,7 @@ Table Data Import Wizard to import table from the csv file.
 Columns in the table/dataset: Country,Year,Status,Life expectancy ,Adult Mortality,infant deaths,percentage expenditure...
 Records : 2941
 
-Dirty Data Identified :
+Data issues Identified :
 1. Missing data in Life expectancy, Status columns.
 2. Duplicate data.
 
