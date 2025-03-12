@@ -1,4 +1,4 @@
-PROJECT Name: World Life Expectatncy Project
+PROJECT Name: World Life Expectancy Project
 --------------------------------------------
 Project Date : 9/11/2024
 
